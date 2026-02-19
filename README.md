@@ -40,11 +40,23 @@ Algorithms implemented:
 
 ---
 
+## 📝 Assignments  
+**Location:** `Assignments/`
+
+This section contains structured DSA assignments and problem-solving exercises.
+
+### Assignment1
+- Multiple Java problems (Q1–Q9)  
+- Focus on logic building and fundamentals  
+
+### Assignment2
+- Additional practice problems  
+- Continued DSA strengthening 
 ## 🛠️ Tech Stack
 
 - Language: **Java**  
 - IDE: VS Code  
-- Concepts: Arrays, Searching, Sorting  
+- Concepts: Arrays, Searching  
 
 ---
 
